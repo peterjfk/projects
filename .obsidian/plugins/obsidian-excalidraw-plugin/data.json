@@ -95,7 +95,7 @@
   "autoexportExcalidraw": false,
   "embedType": "PNG",
   "embedMarkdownCommentLinks": true,
-  "embedWikiLink": true,
+  "embedWikiLink": false,
   "syncExcalidraw": false,
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",

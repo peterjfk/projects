@@ -22,7 +22,7 @@ $$ \begin{equation} y(t)=cos(2\pi [f_{0}+f_1 x(t)]t) \end{equation} $$
 
  Using examplar data and a sinusoidal carrier, we obtain a modulated signal of the form shown below:
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fsk.svg/800px-Fsk.svg.png  ){:height="500px" width="450px" .image-caption }
+![alt text|64](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fsk.svg/800px-Fsk.svg.png  ){:height="500px" width="450px" .image-caption }
 
             Fig1:  Frequency modulation of a bit string
 
