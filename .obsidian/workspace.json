@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Design and Optimization of Adaptive FIR for coherent optical receiver"
             }
-          },
-          {
-            "id": "479a563c2f5da58f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw.md",
+                "file": "_posts/Design and Optimization of Adaptive FIR for coherent optical receiver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw"
+              "title": "Backlinks for Design and Optimization of Adaptive FIR for coherent optical receiver"
             }
           },
           {
@@ -126,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw.md",
+                "file": "_posts/Design and Optimization of Adaptive FIR for coherent optical receiver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw"
+              "title": "Outgoing links from Design and Optimization of Adaptive FIR for coherent optical receiver"
             }
           },
           {
@@ -169,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw.md",
+                "file": "_posts/Design and Optimization of Adaptive FIR for coherent optical receiver.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw"
+              "title": "Outline of Design and Optimization of Adaptive FIR for coherent optical receiver"
             }
           }
         ]
@@ -197,10 +184,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "479a563c2f5da58f",
+  "active": "127414ed91caa339",
   "lastOpenFiles": [
-    "_posts/Design and Optimization of Adaptive FIR for coherent optical receiver.md",
     "_posts/2021-05-17-Redesigning-LM741-IC-Using-Discrete-Components.md",
+    "_posts/Design and Optimization of Adaptive FIR for coherent optical receiver.md",
+    "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 22.00.40.excalidraw.md",
+    "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 22.00.40.excalidraw.svg",
+    "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 22.00.40.excalidraw.png",
     "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw.md",
     "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.53.52.excalidraw.svg",
     "images/Design and Optimization of Adaptive FIR for coherent optical receiver 2026-04-04 21.33.10.excalidraw.md",
